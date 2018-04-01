@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de Sinapsis
+permalink: /acerca-de-sinapsis/
 ---
 
 Some information about you!
